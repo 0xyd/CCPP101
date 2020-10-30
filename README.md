@@ -9,3 +9,5 @@ My notes about C &amp; C++. It's a bit messy but feel free to leave comments or 
 4. 0004: what are va_* operators ?
 5. 0005: size of pointer
 6. 0006: Read file and store the data as numerical values
+7. 0007: clock() and time()
+8. 0008: *<<* and *>>*  
