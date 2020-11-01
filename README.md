@@ -11,3 +11,4 @@ My notes about C &amp; C++. It's a bit messy but feel free to leave comments or 
 6. 0006: Read file and store the data as numerical values
 7. 0007: clock() and time()
 8. 0008: *<<* and *>>*  
+9. 0009: static functions
