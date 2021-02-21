@@ -12,3 +12,5 @@ My notes about C &amp; C++. It's a bit messy but feel free to leave comments or 
 7. 0007: clock() and time()
 8. 0008: *<<* and *>>*  
 9. 0009: static functions
+10. 0010: keyword "inline"
+11. 0011: Seed the random number generator.
